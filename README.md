@@ -1,37 +1,23 @@
-# 👋 Hello, I'm Renato Santos
+# 👋 Olá, eu sou Renato Santos
 
-### Front-end Developer | AI & Automation Builder
+### Desenvolvedor Front-end | IA Aplicada e Automação
 
-I'm passionate about building practical web applications and transforming them into intelligent solutions using Artificial Intelligence and Automation.
+Atualmente estou construindo projetos práticos com HTML, CSS e JavaScript, evoluindo essas aplicações através de Inteligência Artificial, automações e integração com ferramentas como n8n.
 
-## 🚀 Currently working with
+## 🚀 Tecnologias
 
 * HTML5
 * CSS3
 * JavaScript
-* Responsive Design
-* Progressive Web Apps (PWA)
-* AI Integration
-* n8n Automation
-* OCR Solutions
+* Git & GitHub
+* Inteligência Artificial
+* n8n
+* PWAs
 
-## 📚 Currently learning
+## 🎯 Objetivo
 
-* Advanced JavaScript
-* Applied Artificial Intelligence
-* Workflow Automation
-* API Integration
-* Modern Front-end Development
-
-## 💡 My approach
-
-> First, build the solution.
-> Then, make it intelligent.
-
-## 🎯 Goal
-
-Build real-world applications that combine modern web development with Artificial Intelligence and Automation.
+Desenvolver aplicações modernas que unam desenvolvimento web, Inteligência Artificial e automação para resolver problemas do mundo real.
 
 ---
 
-⭐ Feel free to explore my projects and follow my journey.
+*"Aprendendo, construindo e evoluindo um projeto de cada vez."*
