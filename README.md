@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello, I'm Renato Santos
 
-<!--
-**renatoailabs/renatoailabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-end Developer | AI & Automation Builder
 
-Here are some ideas to get you started:
+I'm passionate about building practical web applications and transforming them into intelligent solutions using Artificial Intelligence and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently working with
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Design
+* Progressive Web Apps (PWA)
+* AI Integration
+* n8n Automation
+* OCR Solutions
+
+## 📚 Currently learning
+
+* Advanced JavaScript
+* Applied Artificial Intelligence
+* Workflow Automation
+* API Integration
+* Modern Front-end Development
+
+## 💡 My approach
+
+> First, build the solution.
+> Then, make it intelligent.
+
+## 🎯 Goal
+
+Build real-world applications that combine modern web development with Artificial Intelligence and Automation.
+
+---
+
+⭐ Feel free to explore my projects and follow my journey.
